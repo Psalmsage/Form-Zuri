@@ -86,17 +86,4 @@ h6{
     
 }
 
-input:required:invalid{
-    border: 1px solid hsl(0,100%,74%);
-    background-image: url(icon-error.svg);
-    background-repeat:no-repeat ;
-    background-position: right;
-    background-origin:content-box ;
-
-}
-
  
-
-span{
-    display: none;
-}
